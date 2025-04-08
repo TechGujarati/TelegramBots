@@ -1,7 +1,7 @@
 ### List Of All Useful Telegram Bots :heart:
 
 ## Bots
-
+* [@watchdog_chat_bot](https://t.me/watchdog_chat_bot) - Watchdog - AI Content Moderator and Community Manager
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
