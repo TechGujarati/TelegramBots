@@ -152,6 +152,9 @@ Challenge your friends in MULTIPLAYER mode!
  - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
  - [@RollDiceBot](https://t.me/RollDiceBot) -> [Source](https://github.com/mguellsegarra/diceroll_telegram_bot)
 
+### TypeScript
+ - [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) -> [Apache-2.0 Source](https://github.com/IgorShadurin/weight-telegram-bot) - Group weight goals with photo check-ins, weekly roadmaps, progress charts, reminders, 53 achievements, and nine natural localizations.
+
 ### Lua
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
