@@ -153,6 +153,7 @@ Challenge your friends in MULTIPLAYER mode!
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
  - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
  - [@RollDiceBot](https://t.me/RollDiceBot) -> [Source](https://github.com/mguellsegarra/diceroll_telegram_bot)
+ - [@ProzzoroUkraineBot](https://t.me/ProzzoroUkraineBot) -> [MIT Source](https://github.com/vovasik07/zakupvarta) - Monitors Prozorro tenders by keywords, region, and budget and alerts users to material changes.
 
 ### TypeScript
  - [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) -> [Apache-2.0 Source](https://github.com/IgorShadurin/weight-telegram-bot) - Group weight goals with photo check-ins, weekly roadmaps, progress charts, reminders, 53 achievements, and nine natural localizations.
